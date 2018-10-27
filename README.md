@@ -1,2 +1,2 @@
 # TexasHoldEmSample
-Porject for Engineering Computing Texas Hold Em Project
+Project for Engineering Computing Texas Hold Em Project
